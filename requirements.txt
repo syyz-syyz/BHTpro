@@ -1,6 +1,6 @@
-pandas==2.1.1          # 数据处理库
-streamlit==1.28.0     # 交互式Web应用开发框架
-openpyxl==3.1.2       # Excel文件读写支持（用于pandas读取xlsx格式）
-python-dateutil==2.8.2 # 日期处理工具（pandas依赖项）
-pytz==2023.3          # 时区处理库（pandas依赖项）
-numpy==1.26.0         # 数值计算库（pandas依赖项）
+pandas         # 数据处理库
+streamlit     # 交互式Web应用开发框架
+openpyxl       # Excel文件读写支持（用于pandas读取xlsx格式）
+python-dateutil # 日期处理工具（pandas依赖项）
+pytz          # 时区处理库（pandas依赖项）
+numpy      # 数值计算库（pandas依赖项）
